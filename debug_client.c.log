@@ -1,0 +1,13 @@
+args:
+ q = 1
+r = 2
+s = 3
+
+Allocated 1 bytes at 0x0.
+Allocated 1 bytes at 0x0.
+Allocated 1 bytes at 0x0.
+Allocated 5 bytes at 0x12345.
+Allocated 5 bytes at 0x12345.
+Allocated 5 bytes at 0x158606720.
+Sampling (null) = (null)
+Sampling (null) = (null)
